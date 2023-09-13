@@ -34,6 +34,6 @@ npm run ios
 yarn ios
 ```
 
-### Attention Seekers
+### Review
 
-![animatable-attention](https://cloud.githubusercontent.com/assets/378279/10590307/ef73b1ba-767d-11e5-8fb9-9779d3a53a50.gif)
+![AnimationLogin](https://github.com/LucasLyra01/Login_Animation/assets/50704165/3fcce888-d40e-468a-90a3-29d759b7d0f9)
