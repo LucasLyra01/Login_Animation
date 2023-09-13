@@ -36,4 +36,4 @@ yarn ios
 
 ### Review
 
-![AnimationLogin](https://github.com/LucasLyra01/Login_Animation/assets/50704165/3fcce888-d40e-468a-90a3-29d759b7d0f9)
+![AnimationLogin](https://github.com/LucasLyra01/Login_Animation/assets/50704165/1611f3ac-d608-4f12-bc31-b7189ca2947a)
